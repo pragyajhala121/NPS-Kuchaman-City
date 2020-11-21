@@ -52,3 +52,6 @@ span{
 #contact{
   background: linear-gradient(green 0%, lightgreen 100%); 
 }
+p{
+    font-size: 20px;
+}
