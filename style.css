@@ -35,6 +35,10 @@ iframe{
     margin-left: auto;
     margin-right: 60px;
 }
+#videos{
+    background-color: aquamarine;
+    padding:20px;
+}
 .my_nav_bar{
     position: sticky;
     z-index: 9999;
@@ -47,11 +51,14 @@ span{
     color: black;
 }
 #activities{
-  background: linear-gradient(#00fbff 0%, blue 100%); 
+  background: linear-gradient( red 0%,yellow 100%); 
 }
 #contact{
-  background: linear-gradient(green 0%, lightgreen 100%); 
+  background-color: darksalmon; 
 }
 p{
     font-size: 20px;
+}
+#favouriteplaces{
+    background-color: bisque;
 }
