@@ -62,3 +62,18 @@ p{
 #favouriteplaces{
     background-color: bisque;
 }
+#schoolnews h4{
+    font-size: 30px;
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+#schoolnews p{
+    margin-top: 10px;
+    font-size: 20px;
+}
+#schoolnews img{
+    border-radius: 25px;
+}
+#schoolnews{
+    margin-top: 13px;
+}
