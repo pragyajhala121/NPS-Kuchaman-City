@@ -77,3 +77,25 @@ p{
 #schoolnews{
     margin-top: 13px;
 }
+.alumni img{
+    height: 130px;
+    width: 130px;
+}
+.alumni{
+    cursor: pointer;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.modal_img{
+    display: inline-block;
+}
+p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
+section{
+    display: block;
+}
